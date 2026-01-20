@@ -2,8 +2,8 @@
 ---
 
 Team member:
-- Nama - NIM
-- Nama - NIM
+- Ratna Dwi Lestari - 4222201029
+- Reina Idola - 4222201028
 
 the robot task is to move in a squere using 4 checkpoint with a distance about 3 meter
 
