@@ -11,7 +11,8 @@ the robot task is to move in a squere using 4 checkpoint with a distance about 3
 
 ## 🧠 Behavior Tree Design (Groot2)
 
-![Behavior Tree Diagram](src/ratna_control_pkg/assets/control_bt_gaze.svg)
+![4a2045c0-2694-41fe-99ff-8176759f4e54](https://github.com/user-attachments/assets/d8110a83-683c-4e44-99ef-a4878fcc2cd1)
+l_pkg/assets/control_bt_gaze.svg)
 
 ---
 
